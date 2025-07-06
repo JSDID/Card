@@ -1,4 +1,4 @@
-# Product Card Example
+# Card 
 
 ## Описание
 
